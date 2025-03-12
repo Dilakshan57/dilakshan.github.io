@@ -1,3 +1,9 @@
+/* 
+File: icomoon.css
+Student: Sivaruban Dilakshan
+StudentID: 301302523
+Date: 2023/09/30
+*/
 @font-face {
   font-family: 'icomoon';
   src:  url('fonts/icomoon.eot?6py85u');
@@ -10,7 +16,6 @@
 }
 
 [class^="icon-"], [class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: none;
   font-style: normal;
@@ -19,7 +24,6 @@
   text-transform: none;
   line-height: 1;
 
-  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
